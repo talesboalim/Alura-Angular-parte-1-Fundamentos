@@ -3,6 +3,7 @@
 ## Instalação inicial
 ```
 ./api/npm install
+./api/npm install --unsafe-perm -g sqlite3
 ```
 
 ## Execução
